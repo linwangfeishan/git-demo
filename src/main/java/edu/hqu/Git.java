@@ -6,5 +6,6 @@ public class Git {
         System.out.println("git second");
         System.out.println("git third");
         System.out.println("master test");
+        System.out.println("hot-fix commit");
     }
 }
